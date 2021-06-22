@@ -1,0 +1,5 @@
+﻿  functions.c
+C:\Users\Usuario\Dropbox\FP\Projectes\P4_Programa comandos personalizados para el SO\Fase 3\Producto 3\AA3\AA3\functions.c(67,13): warning C4047: 'return': 'const char *' differs in levels of indirection from 'int'
+C:\Users\Usuario\Dropbox\FP\Projectes\P4_Programa comandos personalizados para el SO\Fase 3\Producto 3\AA3\AA3\functions.c(72,13): warning C4047: 'return': 'const char *' differs in levels of indirection from 'int'
+C:\Users\Usuario\Dropbox\FP\Projectes\P4_Programa comandos personalizados para el SO\Fase 3\Producto 3\AA3\AA3\functions.c(99): warning C4172: returning address of local variable or temporary: nombreAdaptador
+  AA3.vcxproj -> C:\Users\Usuario\Dropbox\FP\Projectes\P4_Programa comandos personalizados para el SO\Fase 3\Producto 3\AA3\Debug\AA3.exe
